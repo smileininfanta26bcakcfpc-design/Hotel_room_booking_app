@@ -1,4 +1,6 @@
 # Hotel_room_booking_app
+Figma design link : https://www.figma.com/design/tZT0IjZU0l3xIxfcKhZF4U/Hotel_Room_Booking_App?node-id=0-1&p=f&t=n8CXJqplDaVP2RrO-0
+Figma prototype link : https://www.figma.com/design/tZT0IjZU0l3xIxfcKhZF4U/Hotel_Room_Booking_App?node-id=0-1&p=f&t=n8CXJqplDaVP2RrO-0
 StayVista – Hotel Room Booking Application
 Project Overview
 StayVista is a hotel room booking mobile application designed to provide users with a simple, convenient, and user-friendly hotel reservation experience. The application allows users to explore hotels, view room details, enter guest information, select payment methods, and confirm their bookings.
